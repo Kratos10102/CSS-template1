@@ -1,0 +1,175 @@
+
+
+
+body {
+  text-align: center;
+  margin: 0;
+  color: #553939;
+}
+
+h1 {
+  margin: 0 auto 0 auto;
+font-size: 400%;
+font-family: 'Pacifico', cursive;
+margin-top: 50px;
+color: #E6CBA8;
+   }
+h2 {
+font-family: 'Supermercado One', cursive;
+font-size: 2.5rem;
+color: #E6CBA8;
+font-weight: normal;
+}
+h3 {
+font-family: 'Supermercado One', cursive;
+}
+
+hr {
+  width: 15%;
+  border: 13px dotted #7D6E83;
+    border-style: none none dotted;
+    border: noshade;
+}
+a {
+  margin: auto 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #E8DFCA;
+}
+.top-container {
+background-color: #F5EDDC;
+position: relative;
+padding-top: 100px;
+     }
+
+     .profile-img {
+       margin: 20px auto 10px auto;
+     padding-top: 20px;}
+
+
+     .bottomcloud {
+       position: absolute;
+       left: 380px;
+       top: 200x;}
+
+     .topcloud {
+      position: absolute;
+      top: 50px;
+      right: 420px;}
+
+
+
+.introduce {
+  width: 40%;
+  margin: 0 auto 10px auto;
+}
+
+.p1 {
+  font-family: 'Varela Round', sans-serif;
+  line-height: 150%;
+}
+
+.skillrow {
+  width: 40%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+
+
+.lifting-barbell {
+  position: absolute;
+  left: 0;
+  top: 945px;
+}
+
+.knowledge {
+  position: absolute;
+  left: 150px;
+  top: 950px;
+}
+
+.middle-container {
+background-color: #E8DFCA;
+margin: 0 auto 0 auto;
+}
+
+.dumbbell-img{
+  float: left;
+  width: 25%;
+  margin-right: 30px;
+}
+
+.sales-img {
+  width: 25%;
+  float: right;
+  margin-left: 10px
+}
+
+.coding-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+
+
+.bottom-container {
+background-color: #AD8B73;
+margin: 0 auto 0 auto;
+width: 100%;
+}
+
+.p2 {
+color: white;
+font-style: italic;
+font-size: 12px;
+padding: 20px 0 10px 0;
+margin-bottom: 0;
+}
+
+.beer-img {
+  position: absolute;
+  margin-left: 200px;
+  margin-top: 100px;
+}
+.skillrow2 {
+  width: 50%;
+  margin: 0 auto 0 auto;
+}
+
+.footer-link {
+  color: #80604F;
+  font-weight: bold;
+  p
+
+}
+
+.btn {
+  background: #553939;
+  background-image: -webkit-linear-gradient(top, #553939, #a77979);
+  background-image: -moz-linear-gradient(top, #553939, #a77979);
+  background-image: -ms-linear-gradient(top, #553939, #a77979);
+  background-image: -o-linear-gradient(top, #553939, #a77979);
+  background-image: linear-gradient(to bottom, #553939, #a77979);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Supermercado One', cursive;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
